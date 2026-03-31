@@ -19,4 +19,4 @@ def change():
 
     centavos = round((vuelto - int(vuelto)) * 100)
     print("Centavos:")
-    print(centavos))
+    print(centavos)
